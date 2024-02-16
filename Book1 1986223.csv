@@ -1,0 +1,50 @@
+Rainfall,Temperature,Fertilizer,seed,seed cost,labour cost,equipment cost,equipment,Yield
+50,25,20,dreid flax seed,65,250,1852,plows,200
+60,28,25,green millet seed,24,300,2954,two wheel drive tractor,220
+40,24,15,gaillardia arizona red shades,1740,475,3624,four wheel drive tractor,180
+70,30,30,grass seed,80,345,3635,moldboard plow,240
+55,27,22,marigold plant seeds,200,285,4857,heavy duty disk,210
+45,26,18,raw onion seeds,1000,235,4965,tandem disk,190
+65,29,28,natural shia seed,75,287,1862,chisel plow,230
+80,32,35,organic flax seeds,75,353,3987,field cultivator,260
+75,31,32,lady finger seeds,110,475,4654,harrow,250
+90,33,38,black kala dana,90,355,3387,roller packer mulcher,270
+92,26,40,natural brown flaxseed,350,455,2369,rotary hoe,300
+63,30,29,eucalyptus,600,332,2987,row crop cultivator,298
+54,25,40,muskdana seed,350,478,1369,combine heads,275
+41,28,18,sorghum seed,15,326,3967,potato harvester,256
+32,29,16,brown natural castor seeds,210,212,2864,mower conditioner,275
+87,24,34,natural black sesame seeds,180,346,4278,mower conditioner,234
+91,25,38,dired kaasni seeds,110,432,2965,rake,251
+77,31,35,regia seed,99,445,2327,rectangular baler,200
+57,32,24,milk thistle seeds,200,496,1738,large square baler,187
+77,30,27,raw flax seeds alsi,90,212,2987,forage harvester,180
+54,28,29,safflower seed,65,345,4712,forage harvester,150
+67,29,39,chilli seeds ,343,468,2937,combine sp,290
+90,26,37,amaltash seeds,165,345,2888,windrower sp,240
+50,28,40,annona squamosa seed,400,412,4257,cooton picker,250
+55,25,15,brinjal seed,150,296,4111,mower(sickle),190
+83,26,19,gulmohar seeds,300,445,2987,mower(rotary,220
+76,28,26,chia seed,1100,485,1324,largeroung baier,222
+32,29,29,jaamum seeds seeds,250,252,3862,sugar beet harvester,245
+78,25,39,annona squamosa seed,400,445,3127,rotarytiller,215
+49,22,30,wheat,39,385,4973,row crop planter,198
+19,29,20,paddy seeds,18,245,3857,grain drill,185
+30,28,35,corn seeds,149,312,1329,fertilizer spreader,177
+48,25,34,pearl millet,177,445,2351,boom type sprayer,167
+57,24,26,finger millet,80,376,4356,air carrier sprayer,256
+64,30,29,paddy ps2,25,395,2827,bean pullet sprayer,267
+38,33,28,corn rice,80,452,4635,bean pullet windrower,298
+56,32,21,natural kochia seed,200,315,4721,stalk chopper,200
+76,25,23,salviifolium seeds,300,246,3967,forageblower,210
+89,29,25,pterocarpus,1450,325,4321,wagon,214
+76,30,39,yellow garm,200,375,1867,forage wagon,260
+54,33,35,khair seed,25,495,2968,forage wagon,265
+25,32,33,salvia seeds,12,332,3862,forage wagon,267
+45,33,38,amaranthus seeds,50,275,4735,forage wagon,234
+76,25,18,vikrant gram,2860,395,5862,mower(rotary,243
+56,28,17,dried sunflower crop,400,232,7687,wagon,276
+78,29,34,paddy rt6,50,243,8524,bean pullet windrower,265
+75,24,31,little millet,87,458,9632,boom type sprayer,183
+74,25,16,flax seeds,50,325,7569,sugar beet harvester,190
+34,33,24,millet seed,42,216,8547,air carrier sprayer,195
